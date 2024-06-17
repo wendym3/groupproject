@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const Navbar = ({ category }) => {
+const NavBar = ({ category }) => {
   return (
     <div>
       <nav className="flex flex-row justify-between items-center p-4 bg-orange-500 text-white">
@@ -49,4 +49,4 @@ const Navbar = ({ category }) => {
   );
 };
 
-export default Navbar;
+export default NavBar;

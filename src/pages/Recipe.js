@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 import { Link, useParams, useLocation } from "react-router-dom";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/NavBar";
 
 const Recipe = () => {
   const [recipe, setRecipe] = useState(null);
