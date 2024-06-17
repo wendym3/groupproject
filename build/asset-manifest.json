@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wendym3/groupproject/static/css/main.92c8d4eb.css",
+    "main.js": "/wendym3/groupproject/static/js/main.cf67f367.js",
+    "index.html": "/wendym3/groupproject/index.html",
+    "main.92c8d4eb.css.map": "/wendym3/groupproject/static/css/main.92c8d4eb.css.map",
+    "main.cf67f367.js.map": "/wendym3/groupproject/static/js/main.cf67f367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.cf67f367.js"
+  ]
+}
